@@ -1,0 +1,18 @@
+dt 0.000001
+totalSimulationTime 20.0
+snapshotTime 0.1
+eta 0.3
+beadRadius 0.01
+thermalForcesOn false
+temperature 300.0
+numThreads 1
+excludedVolOn false
+boxDimensions 0.1 0.1 0.1
+springConstantK 10000.0
+eqBondLength 0.002
+retrogradeFlowSpeed 0.02
+numBeadsTalin 13
+attachedToIntegrin true
+attachedToActin true
+talinActinBreakForce 50
+outputName sim
